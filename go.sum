@@ -1,2 +1,4 @@
 github.com/jezek/xgb v0.0.0-20210121230032-cec22bda1ce1 h1:PfWseRCw8CuibmqANiYO1Ln5yHm6NfVGAQaGGvuPjH0=
 github.com/jezek/xgb v0.0.0-20210121230032-cec22bda1ce1/go.mod h1:3P4UH/k22rXyHIJD2w4h2XMqPX4Of/eySEZq9L6wqc4=
+github.com/jezek/xgb v0.0.0-20210303152413-ddeaff51cf5f h1:Tzi5V1nY4u9/TzDBwYMCjjXWK+2Y+P4fiXoxOeHO5No=
+github.com/jezek/xgb v0.0.0-20210303152413-ddeaff51cf5f/go.mod h1:3P4UH/k22rXyHIJD2w4h2XMqPX4Of/eySEZq9L6wqc4=

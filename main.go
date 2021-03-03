@@ -29,7 +29,6 @@ func mouseLocation(conn *xgb.Conn, window xproto.Window) (int16, int16) {
 }
 
 func moveMouse(conn *xgb.Conn, window xproto.Window, xLimit int16) {
-	time.Sleep(time.Millisecond)
 	mousePosX, mousePosY := mouseLocation(conn, window)
 	moveAmount := -(mousePosX - xLimit)
 
